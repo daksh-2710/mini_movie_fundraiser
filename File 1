@@ -1,0 +1,11 @@
+#functions
+#main routine
+want_instructions = input("Do you want to read the instructions? ")
+if want_instructions == "yes":
+  print()
+elif want_instructions == "no":
+  pass
+else:
+  print("please answer yes or no")
+  
+ 
